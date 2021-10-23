@@ -9,6 +9,7 @@ func _ready():
 	# Initialization here
 	var a = 2
 	print(a * a)
+	prin("TEst")
 	
 	
 	pass

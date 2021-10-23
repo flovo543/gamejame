@@ -14,10 +14,6 @@ config/name="Gam-Jam"
 run/main_scene="res://Level.tscn"
 config/icon="res://icon.png"
 
-[editor_plugins]
-
-enabled=PoolStringArray( "github-integration" )
-
 [input]
 
 ui_left=[ Object(InputEventJoypadButton,"resource_local_to_scene":false,"resource_name":"","device":0,"button_index":14,"pressure":0.0,"pressed":false,"script":null)
